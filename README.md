@@ -1,7 +1,7 @@
 ### Olá! meu nome é Marcos Alexandre
 
 - 🔭 No momento não estou trabalhando ...
-- 🌱 Estou estudando PHP e JavaScript
+- 🌱 Estou estudando PHP, JavaScript, Asp.Net
 
 
 <div align="center">
