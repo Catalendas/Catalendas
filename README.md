@@ -1,7 +1,7 @@
 ### Olá! meu nome é Marcos Alexandre
 
 - 🔭 No momento não estou trabalhando ...
-- 🌱 Estou estudando ReactJs, JavaScript, Asp.Net
+- 🌱 Estou estudando ReactJs, JavaScript
 
 
 <div align="center">
