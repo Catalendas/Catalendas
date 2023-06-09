@@ -1,7 +1,8 @@
 ### Olá! meu nome é Marcos Alexandre
 
-- 🔭 No momento não estou trabalhando ...
-- 🌱 Estou estudando ReactJs, JavaScript
+- 🔭  Desenvolvedor web junior na Zen soft...
+- 🚀 Sempre estudando.
+- 🌱 Estou estudando ReactJs, JavaScript.
 
 
 <div align="center">
