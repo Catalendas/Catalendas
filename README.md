@@ -57,6 +57,6 @@ Transforming ideas into high-performance code, creating scalable and easy-to-mai
 - Collaborating on projects  
 - Sharing knowledge  
 - Building innovative solutions  
-- Talking about front-end, performance and UX  
+- Talking about front-end, back-end and performance in to code
 
-💬 Feel free to reach out!
+💬  Let's talk about code and project, feel free to reach out!
